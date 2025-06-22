@@ -1,0 +1,134 @@
+ .heading {
+        font-family: verdana;
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+
+    .syntax {
+        font-family: verdana;
+        color:rgb(96, 96, 96);
+        margin-top: 5px;
+    }
+
+    .body {
+        font-family: verdana;
+        width: 310px;
+        line-height: 20px;
+        margin-left: 0px;
+    }
+
+
+    .green {
+        background-color: green;
+        border: none;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-left:20px;
+        padding-right:20px;
+        color:white;    
+        border-radius: 6px;
+        transition :hover 0.15s;
+        cursor: pointer;
+    }
+
+    .green:hover {
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .green:active {
+        opacity: 0.6;
+    }
+
+
+    .title-1 {
+        font-family: Arial;
+        text-align:center;
+        font-weight: bold;
+        margin-top: 50px;
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+
+    .title-2 {
+        font-family: Arial;
+        text-align: center;
+
+    }
+
+
+    .title-3 {
+        font-family: Arial;
+        text-align:center;
+        color: rgb(9, 116, 255);
+        transition: opacity 0.15s, text-decoration 0.15s;
+        margin-bottom: 50px;
+    }
+
+    .title-3:hover {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+    .title-3:active {
+        opacity: 0.6;
+    }
+
+
+    .new {
+        font-family: Arial;
+        text-align:center;
+        color:rgb(255, 102, 0);
+        margin-bottom: 0px;
+    }
+
+    .Mac {
+        font-family: Arial;
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+
+
+    .body-1 {
+        font-family: Arial;
+        font-weight: bold;
+        text-align:center;
+        font-size: 25px;
+        text-align:center;
+        margin-top: 3px;
+        margin-bottom: 0px;
+    }
+
+
+    .price {
+        font-family: Arial;
+        text-align: center;
+        color:rgb(56, 56, 56);
+    }
+
+
+    .blue {
+            font-family: Arial;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 20px;
+            padding-right: 20px;
+            transition: opacity 0.15s;
+            background-color:rgb(41, 118, 221);
+            color:white;
+            border-radius: 20px;
+            border: none;
+           margin-left: 800px;
+                }
+
+
+    .blue:hover {
+        opacity: 0.8;
+        cursor: pointer;
+    }
+
+    .blue:active {
+        opacity: 0.6;
+    }
